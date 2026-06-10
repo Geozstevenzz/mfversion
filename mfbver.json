@@ -1,4 +1,6 @@
 {
   "version": "1.5.209",
-  "iversion": "1.5.209"
+  "iversion": "1.5.209",
+  "force": false,
+  "iforce": false
 }
